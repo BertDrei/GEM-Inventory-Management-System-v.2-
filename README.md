@@ -16,13 +16,13 @@ The **GEM Inventory Management System v.2** is a robust and intuitive solution d
 
 ## How to Use
 
-1. **Installation:** Follow the straightforward installation instructions to set up the GEM Inventory Management System v.2 on netbeans.
+1. **Installation:** Follow straightforward instructions to set up the GEM Inventory Management System v.2 on netbeans.
 
 2. **Configuration:** Customize settings, such as currency, units of measurement, and tax rates, to align the system with your business requirements.
 
-3. **Adding Products:** Easily add products to your inventory by inputting key details or utilizing the barcode scanning feature.
+3. **Adding Products:** Add products to your inventory by inputting key details.
 
-4. **Stock Management:** Monitor stock levels, receive alerts for low stock, and efficiently manage stock movements across different locations.
+4. **Stock Management:** Monitor stock levels, display low stock and efficiently manage stock movements across different locations.
 
 5. **Generating Reports:** Leverage the reporting functionality to gain valuable insights into your inventory, helping you make data-driven decisions.
 
